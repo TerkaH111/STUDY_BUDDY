@@ -1,58 +1,58 @@
-<p align="center">
+<h1 align="center">
   STUDY BUDDY
-</p>
+</h1>
 
 ### Project features
 
---> Setup:
-
-Creating a new Django project.
+**&bull; Setup:**
 Setting up the environment and installing necessary dependencies.
 
---> Views and URLs:
+**&bull; Views and URLs:**
 Creating basic views.
 Defining URL patterns for each view.
 
---> Templates:
+**&bull; Templates:**
 Creating HTML templates for views.
 
--->Database and Admin Panel:
+**&bull; Database and Admin Panel:**
 Configuring the database.
 Adding an administrative interface.
 
---> CRUD Operations:
+**&bull; CRUD Operations:**
 Implementing functionality for Create, Read, Update, and Delete operations.
 
---> Search:
+**&bull; Search:**
 Adding search functionality.
 
---> User Login and Logout:
+**&bull; User Login and Logout:**
 Implementing functionality for user login and logout.
 
---> Flash Messages:
+**&bull; Flash Messages:**
 Displaying messages for users.
 
---> Restricted Access:
+**&bull; Restricted Access:**
 Setting up restricted access to certain pages.
 
---> User Registration:
+**&bull; User Registration:**
 Implementing a registration form
 
---> CRUD Operations for Chat Room Messages:
+**&bull; CRUD Operations for Chat Room Messages:**
 Creating functionality for manipulating messages in a chat room.
 
---> Activity Feed:
+**&bull; Activity Feed:**
 Implementing user activity.
 
---> User Profile:
+**&bull; User Profile:**
 Creating a user profile page.
 
---> Static Files:
+**&bull; Static Files:**
 Managing static files.
 Installing and applying a design theme.
 
---> Edit User Account Page:
+**&bull; Edit User Account Page:**
 Creating a page for editing user accounts.
+
+<hr>
 
 ### Cloning the repository
 
@@ -110,14 +110,14 @@ python manage.py runserver
 <p align="center">
   Home Feed
 </p>
-<img src="Img_Django/overview.png">
+<img src="studybud/Img_Project/overview.png">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
   Profile Feed
 </p>
-<img src="Img_Django/profile.png"> 
+<img src="studybud/Img_Project/profile.png"> 
 </td>
 </table>
 
