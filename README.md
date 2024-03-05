@@ -54,6 +54,19 @@ Creating a page for editing user accounts.
 
 <hr>
 
+### Upcoming Project features
+
+**&bull; Adding Bootsrap5:**
+Mobile Responsiveness
+
+**&bull; Django REST Framework**
+
+**&bull; Customizing User model**
+
+**&bull; Integrating Custom User Model**
+
+<hr>
+
 ### Cloning the repository
 
 --> Clone the repository
